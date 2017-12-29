@@ -5,9 +5,10 @@
 
 我能下载到的文档，已经放到了：https://github.com/galian123/MyCheatSheet，需要的话请自取。
 
-如果要更好地理解代码，或者理解工具的使用，就需要对官方的文档、官方的说明有更深的理解。官方的文档一般写的都比较简洁了当，只是把要点写出来了，第一次读一般会忽略掉很多细节，之后每一次读都会有不同的体会，这跟读一本书是类似的。
-
 一般遇到技术上的问题，通常的做法：
+
+* **官方文档**
+如果要更好地理解代码，或者理解工具的使用，官方的文档、官方的说明是必读的。官方的文档一般写的都比较简洁了当，只是把要点写出来了，第一次读一般会忽略掉很多细节，之后每一次读都会有不同的体会，这跟读一本书是类似的。
 
 * **搜索引擎**
 对于某个知识点，可以通过**搜索引擎**快速上手，查查百度、必应或者谷歌，一般都是可以搜到结果的。
@@ -62,19 +63,19 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 
 * **make (makefile)**
 
-GNU Make Manual: https://www.gnu.org/software/make/manual/
+	GNU Make Manual: https://www.gnu.org/software/make/manual/
 GNU make中文手册： http://vdisk.weibo.com/s/uCRMpDBUxfXHq
 
-阮一峰老师的 [Make 命令教程](http://www.ruanyifeng.com/blog/2015/02/make.html)
+	阮一峰老师的 [Make 命令教程](http://www.ruanyifeng.com/blog/2015/02/make.html)
 
 * **cmake**
 
-https://cmake.org/documentation/
+	https://cmake.org/documentation/
 
-cmake 3.10（目前最新）帮助文档： https://cmake.org/cmake/help/v3.10/
+	cmake 3.10（目前最新）帮助文档： https://cmake.org/cmake/help/v3.10/
 这个页面中也有『Quick Search』，方便搜索。
 
-cmake 搜索： https://cmake.org/cmake/help/v3.10/search.html
+	cmake 搜索： https://cmake.org/cmake/help/v3.10/search.html
 
 * **shell脚本（bash）**
 
