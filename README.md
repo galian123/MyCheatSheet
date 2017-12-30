@@ -26,6 +26,7 @@
 * **github开源项目中的Issue**
 
 对于github中开源项目的问题，通常先去项目的Issue中搜索是否有相同或相似的问题。例如`py-faster-rcnn`的『Issues』，可以看到提交了很多问题，没有解决的问题（Open的）有505个，已经解决的（Closed）有205个。通常你遇到的问题，别人已经遇到，并提交到『Issues』这里了。
+
 ![](images/github_issue.png)
 
 
@@ -353,16 +354,26 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 	http://open.freebuf.com/oversea/tool-oversea/1192.html
 
 	【FreeBuf字幕组】Web应用渗透工具BurpSuite教程<八> 结语
+
 	http://open.freebuf.com/oversea/tool-oversea/1194.html
 
 
 * **Apktool**
 
 	https://ibotpeaches.github.io/Apktool/documentation/
+
 	里面有详细的使用说明，跟着说明做一遍，对apktool的功能会有一个初步且比较完整的理解。
 
 * **Wireshark**
 
 	https://www.wireshark.org/docs/
 
+* **Markdown**
 
+	https://guides.github.com/features/mastering-markdown/
+
+	https://help.github.com/articles/basic-writing-and-formatting-syntax/
+	
+	https://help.github.com/articles/organizing-information-with-tables/ <br>
+	https://daringfireball.net/projects/markdown/basics <br>
+	https://daringfireball.net/projects/markdown/syntax
