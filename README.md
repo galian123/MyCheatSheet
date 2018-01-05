@@ -1,11 +1,11 @@
 # 我的速查手册
 
-本文只是记录一些自己经常翻查的手册（帮助文档），有些是解释语法的（例如make, python），有些是介绍工具使用的（例如git），写下来是为了自己方便查找。
+本文只是记录一些自己(曾经或者现在)经常翻查的手册（帮助文档），有些是解释语法的（例如make, python），有些是介绍工具使用的（例如git），写下来是为了自己方便查找。
 希望对你也有帮助。
 
 我能下载到的文档，已经放到了：https://github.com/galian123/MyCheatSheet ，需要的话请自取。
 
-一般遇到技术上的问题，通常的做法：
+一般遇到技术上的问题，通常的做法(除了向他人请教之外)：
 
 * **官方文档**
 
@@ -28,7 +28,6 @@
 对于github中开源项目的问题，通常先去项目的Issue中搜索是否有相同或相似的问题。例如`py-faster-rcnn`的『Issues』，可以看到提交了很多问题，没有解决的问题（Open的）有505个，已经解决的（Closed）有205个。通常你遇到的问题，别人已经遇到，并提交到『Issues』这里了。
 
 ![](images/github_issue.png)
-
 
 BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中chm文件打开后显示空白的问题](FixChmDisplayError.md)
 
@@ -59,7 +58,7 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 
 类似这个困惑：所有的代码语法都能看懂，就是不明白为什么代码写成了这么复杂的样子。这个问题类似于一句英语中的每个单词都认识，就是不能理解这句英语是什么意思。因为代码的背后有一个设计理念，为了方便维护、易于扩展、易于团队协同开发等很多代码外的因素，需要把代码设计成某种模式、或者应用某个框架。理解代码的架构，会对理解代码很有帮助。
 
-本人总结的肯定有遗漏，并不奢想写全。权且算作是我自己的分类吧，而且分类也是自定义的，仅供参考。
+本人总结的肯定有遗漏，权且算作是我自己的分类吧，而且分类也是自定义的，仅供参考。
 
 ### **&#9830; 1.2 工具相关的**
 
@@ -233,6 +232,20 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 
 	http://www.3gpp.org/DynaReport/23040.htm
 
+* **Markdown**
+
+	https://guides.github.com/features/mastering-markdown/ <br>
+	https://help.github.com/articles/basic-writing-and-formatting-syntax/	 <br>
+	https://help.github.com/articles/organizing-information-with-tables/ <br>
+	https://daringfireball.net/projects/markdown/basics <br>
+	https://daringfireball.net/projects/markdown/syntax <br>
+
+* **yaml**
+
+    http://www.yaml.org/ <br>
+    http://www.yaml.org/spec/1.2/spec.html <br>
+    https://github.com/jbeder/yaml-cpp/ <br>
+    https://github.com/jbeder/yaml-cpp/wiki/Tutorial
 
 ### **&#9830; 2.5 架构、设计理念相关的**
 
@@ -355,10 +368,4 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 
 	https://www.wireshark.org/docs/
 
-* **Markdown**
 
-	https://guides.github.com/features/mastering-markdown/ <br>
-	https://help.github.com/articles/basic-writing-and-formatting-syntax/	 <br>
-	https://help.github.com/articles/organizing-information-with-tables/ <br>
-	https://daringfireball.net/projects/markdown/basics <br>
-	https://daringfireball.net/projects/markdown/syntax <br>
