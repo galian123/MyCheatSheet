@@ -40,23 +40,23 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 
 * （1）编译相关的问题: 
 
-例如make（makefile）的语法、cmake的CMakeLists.txt中用到的语法、gcc的参数等。makefile还会内嵌一些shell命令。
+    例如make（makefile）的语法、cmake的CMakeLists.txt中用到的语法、gcc的参数等。makefile还会内嵌一些shell命令。
 
 * （2）编程语言相关的问题： 
 
-例如Java、C++、Python、Javascript等语言的语法。
+    例如Java、C++、Python、Javascript等语言的语法。
 
 * （3）操作系统相关的问题：
 
-例如寄存器、进程、线程、线程池、进程挂起、进程调度、内存分配与释放、内存回收等一些概念，需要阅读操作系统相关的书籍或者文档，达到更清晰的理解。
+    例如寄存器、进程、线程、线程池、进程挂起、进程调度、内存分配与释放、内存回收等一些概念，需要阅读操作系统相关的书籍或者文档，达到更清晰的理解。
 
 * （4）各种文件格式、数据格式规范相关的问题：
 
-例如Android中的dex格式、oat格式、各种图片格式，各种规范（例如SMS规范、MMS规范），动态库（.so文件）的ELF规范等等。
+    例如Android中的dex格式、oat格式、各种图片格式，各种规范（例如SMS规范、MMS规范），动态库（.so文件）的ELF规范等等。
 
 * （5）架构、设计理念相关的问题：
 
-类似这个困惑：所有的代码语法都能看懂，就是不明白为什么代码写成了这么复杂的样子。这个问题类似于一句英语中的每个单词都认识，就是不能理解这句英语是什么意思。因为代码的背后有一个设计理念，为了方便维护、易于扩展、易于团队协同开发等很多代码外的因素，需要把代码设计成某种模式、或者应用某个框架。理解代码的架构，会对理解代码很有帮助。
+    类似这个困惑：所有的代码语法都能看懂，就是不明白为什么代码写成了这么复杂的样子。这个问题类似于一句英语中的每个单词都认识，就是不能理解这句英语是什么意思。因为代码的背后有一个设计理念，为了方便维护、易于扩展、易于团队协同开发等很多代码外的因素，需要把代码设计成某种模式、或者应用某个框架。理解代码的架构，会对理解代码很有帮助。
 
 本人总结的肯定有遗漏，权且算作是我自己的分类吧，而且分类也是自定义的，仅供参考。
 
@@ -171,6 +171,23 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 
 	Groovy Reference (pdf已下载）： https://dzone.com/refcardz/groovy
 
+* **numpy**
+
+    http://www.numpy.org/ <br>
+    术语: https://docs.scipy.org/doc/numpy/glossary.html#glossary <br>
+    numpy快速开始: https://docs.scipy.org/doc/numpy-dev/user/quickstart.html <br>
+    numpy参考手册: https://docs.scipy.org/doc/numpy/reference/ <br>
+    numpy基础: https://docs.scipy.org/doc/numpy/user/basics.html <br>
+    numpy维基百科: https://en.wikipedia.org/wiki/NumPy
+
+* **opencv**
+
+    https://docs.opencv.org/ <br>
+    这里可以在线查看, 也可以下载到本地,离线查看. <br>
+    opencv2.4: https://docs.opencv.org/2.4/ <br>
+    https://docs.opencv.org/2.4/search.html <br>
+    https://docs.opencv.org/2.4/genindex.html <br>
+    opencv master最新的docs: https://docs.opencv.org/master/
 
 ### **&#9830; 2.3 操作系统相关的**
 
@@ -368,4 +385,6 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 
 	https://www.wireshark.org/docs/
 
-
+* **gflags**
+    
+    https://gflags.github.io/gflags/
