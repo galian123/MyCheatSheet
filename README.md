@@ -303,7 +303,7 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 	Git权威指南： http://www.worldhello.net/gotgit/
 
 	Learn Version Control with Git: https://www.git-tower.com/learn/git/ebook/en/command-line/introduction <br>
-	Learn Version Control with Git(中文版）：https://www.git-tower.com/learn/git/ebook/cn/command-line/introduction
+	Learn Version Control with Git(中文版）：https://www.git-tower.com/learn/git/ebook/cn/command-line/introduction <br>
 	Git FAQ: https://www.git-tower.com/learn/git/faq <br>
 	Git Glossary(术语)： https://www.git-tower.com/learn/git/glossary <br>
 	Git CheatSheet: https://www.git-tower.com/learn/cheat-sheets/git
