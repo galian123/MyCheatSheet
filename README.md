@@ -34,7 +34,7 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 
 ## **&#9733; 1. 遇到的问题**
 
-### **&#9830; 1.1 代码相关的**
+### **&#9671; 1.1 代码相关的**
 
 阅读代码的过程中，一般会遇到的问题有：
 
@@ -60,7 +60,7 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 
 本人总结的肯定有遗漏，权且算作是我自己的分类吧，而且分类也是自定义的，仅供参考。
 
-### **&#9830; 1.2 工具相关的**
+### **&#9671; 1.2 工具相关的**
 
 这个『工具』类别与上面的『代码』类别的差异，用不太恰当的类比，可以比作『黑盒』和『白盒』测试。使用工具基本上可以不用管工具是怎么实现的，更多的关注点在怎么用好工具，例如git工具，我相信读过git源代码的应该不多，我们更多的精力放在如何用好git上。
 
@@ -73,8 +73,21 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 
 再次声明：本文介绍的只是我个人经常查的帮助文档，以官方的文档为主，也包括一些很好的博客、书籍（以电子书为主，方便在电脑中搜索）。能下载到的文档，已经放到了：https://github.com/galian123/MyCheatSheet，读者可以fork，并删改形成自己的版本。
 
+### **&#9671; 2.0 学习资源网站**
 
-### **&#9830; 2.1 编译相关的**
+https://www.tutorialspoint.com/tutorialslibrary.htm
+
+https://www.tutorialspoint.com/index.htm
+
+https://www.dofactory.com/reference
+
+http://w3school.com.cn
+
+http://www.w3schools.com/default.asp
+
+
+
+### **&#9671; 2.1 编译相关的**
 
 * **make (makefile)**
 
@@ -106,7 +119,7 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 	[Bash-Beginners-Guide.html.tar.gz](http://www.tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.html.tar.gz) <br>
 	[Bash-Beginners-Guide.pdf](http://www.tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf)
 
-### **&#9830; 2.2 编程语言相关的**
+### **&#9671; 2.2 编程语言、程序库、编码相关的**
 
 * **Java**
 
@@ -189,7 +202,7 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
     https://docs.opencv.org/2.4/genindex.html <br>
     opencv master最新的docs: https://docs.opencv.org/master/
 
-### **&#9830; 2.3 操作系统相关的**
+### **&#9671; 2.3 操作系统相关的**
 
 * **Dalvik VM**
 
@@ -217,7 +230,7 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 	需要注册，才能下载。
 
 
-### **&#9830; 2.4 各种文件格式、数据格式规范相关的**
+### **&#9671; 2.4 各种文件格式、数据格式规范相关的**
 
 * **dex format**
 
@@ -264,7 +277,7 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
     https://github.com/jbeder/yaml-cpp/ <br>
     https://github.com/jbeder/yaml-cpp/wiki/Tutorial
 
-### **&#9830; 2.5 架构、设计理念相关的**
+### **&#9671; 2.5 架构、设计理念相关的**
 
 * **设计模式（Java）**
 
@@ -292,7 +305,7 @@ BTW： chm文件打开显示空白的问题，可以参考：[解决Windows中ch
 	GitHub Issues： https://github.com/ReactiveX/RxJava/issues
 
 
-### **&#9830; 2.6 工具相关的**
+### **&#9671; 2.6 工具相关的**
 
 * **git**
 
